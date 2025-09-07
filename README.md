@@ -78,11 +78,11 @@ O núcleo do sistema utiliza um `ArrayList` mantido sempre ordenado, com todas a
 ## Screenshots
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Java</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Código da **Busca Binária**</b></p></font>
 </div>
 
 <div align="center">
-<img src="https://i.pinimg.com/1200x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/Images/codigoBusca.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 
 -----
