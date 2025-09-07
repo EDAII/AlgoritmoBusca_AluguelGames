@@ -21,7 +21,7 @@ public class TelaPrincipal extends JFrame {
         JTabbedPane abas = new JTabbedPane();
 
         painelLojista = new PainelLojista(gerenciador);
-        painelCliente = new PainelCliente(gerenciador, this); // Passa a referência da tela principal
+        painelCliente = new PainelCliente(gerenciador, this);
 
         abas.addTab("Área do Lojista", painelLojista);
         abas.addTab("Área do Cliente", painelCliente);
