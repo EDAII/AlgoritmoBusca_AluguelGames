@@ -1,53 +1,19 @@
-# PD_LeetCode-and-Hacker-Rank
+# Sistema de Aluguel de Jogos
 
-**Conteúdo da Disciplina**: Programação Dinâmica
+**Conteúdo da Disciplina**: Busca Binária
 
-## Sobre
+-----
 
-Este projeto consiste na resolução de questões da plataforma HackerRank e LeetCode, variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo estudado na disciplina de PA.
+## Sobre o Projeto
 
-## Questões
+Este projeto é uma aplicação de desktop para gerenciamento de aluguel de jogos, desenvolvido em Java com uma interface gráfica construída usando a biblioteca Swing. O sistema é projetado com duas visões principais:
 
-<center>
+  - **Visão do Lojista**: Acesso administrativo com controle total sobre o catálogo.
+  - **Visão do Cliente**: Acesso simplificado para visualizar, alugar e devolver jogos.
 
-</head>
-<body>
+O núcleo do sistema utiliza um `ArrayList` mantido sempre ordenado, com todas as operações de busca sendo realizadas por uma implementação manual e eficiente do algoritmo de **Busca Binária**.
 
-<table>
-    <thead>
-        <tr>
-            <th>Questão</th>
-            <th>Nível</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/" target="_blank">1235. Maximum Profit in Job Scheduling</td>
-            <td>Difícil 01</td>
-        </tr>
-        <tr>
-            <td><a href="https://leetcode.com/problems/profitable-schemes/description/" target="_blank">879. Profitable Schemes</td>
-            <td>Difícil 02</td>
-        </tr>
-         <tr>
-            <td><a href="https://leetcode.com/problems/trapping-rain-water/submissions/1693139970/?envType=problem-list-v2&envId=dynamic-programming" target="_blank">42. Trapping Rain Water</td>
-            <td>Difícil 03</td>
-        </tr>
-         <tr>
-            <td><a href="https://leetcode.com/problems/distinct-subsequences/description/?envType=problem-list-v2&envId=dynamic-programming" target="_blank">115. Distinct Subsequences</td>
-            <td>Difícil 04</td>
-        </tr>
-         <tr>
-            <td><a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?envType=problem-list-v2&envId=dynamic-programming" target="_blank">124. Binary Tree Maximum Path Sum</td>
-            <td>Difícil 05</td>
-        </tr>
-    </tbody>
-</table>
-
-</body>
-</html>
-
-</center>
+-----
 
 ## Contribuidores
 
@@ -83,93 +49,106 @@ Este projeto consiste na resolução de questões da plataforma HackerRank e Lee
 
 </center>
 
-## Linguagem Utilizada
+-----
 
-- Python
+## Funcionalidades
 
-## Uso
+  - **Painel do Lojista (Administrativo)**
 
-Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procurar pelo nome/número do exercício, colar na aba code e clicar em _Run Code_
+      - Adicionar novos jogos com geração de ID incremental e automática.
+      - Visualizar o catálogo completo com status (`Disponível`/`Alugado`).
+      - Atualizar informações de jogos existentes.
+      - Remover jogos do sistema permanentemente.
 
-Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-conquer/), procurar pelo nome/número do exercício, colar na aba code e clicar em _Submit_
+  - **Painel do Cliente (Usuário)**
 
-## Screenshots do HackerRank & LeetCode
+      - Visualizar o catálogo completo de jogos e seus status.
+      - Alugar jogos marcados como "Disponível".
+      - Devolver jogos previamente alugados.
 
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Resultados questão difícil LeetCode 1235</b></p></font>
-</div>
+-----
 
-<div align="center">
-<img src="Assets/QuestaoDificil1_case1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
+## Tecnologias Utilizadas
 
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Resultados questão difícil LeetCode 1235</b></p></font>
-</div>
+  - **Linguagem**: Java
+  - **Interface Gráfica**: Java Swing
 
-<div align="center">
-<img src="Assets/QuestaoDificil1_case2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
+-----
 
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Resultados questão difícil LeetCode 1235</b></p></font>
-</div>
+## Como Usar (Para Usuários Finais)
 
-<div align="center">
-<img src="Assets/QuestaoDificil1_case3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
+Esta seção é para quem deseja apenas executar a aplicação.
 
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão difícil LeetCode 879</b></p></font>
-</div>
+1.  **Baixe o Programa**
 
-<div align="center">
-<img src="Assets/QuestaoDificil2_case1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
+      - Faça o download do arquivo `Locadora.jar`. *(Em um projeto real no GitHub, este arquivo estaria na seção "Releases")*.
 
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão difícil LeetCode 879</b></p></font>
-</div>
+2.  **Pré-requisito**
 
-<div align="center">
-<img src="Assets/QuestaoDificil2_case2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
+      - Garanta que você tenha o **Java** (versão 11 ou superior, não-headless) instalado em seu computador.
 
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Resultados questão difícil LeetCode 42. Trapping Rain Water</b></p></font>
-</div>
+3.  **Execute a Aplicação**
 
-<div align="center">
-<img src="Assets/agua.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
+      - **Método 1 (Duplo-Clique)**: Na maioria dos sistemas operacionais, basta dar um duplo-clique no arquivo `Locadora.jar`.
+      - **Método 2 (Via Terminal)**: Abra um terminal na pasta onde o arquivo foi salvo e execute o comando:
+        ```bash
+        java -jar Locadora.jar
+        ```
 
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil LeetCode 115. Distinct Subsequences</b></p></font>
-</div>
+-----
 
-<div align="center">
-<img src="Assets/distinct.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
+## Como Compilar (Para Desenvolvedores)
 
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil LeetCode 124. Binary Tree Maximum Path Sum</b></p></font>
-</div>
+Esta seção é para desenvolvedores que desejam construir o programa a partir do código-fonte.
 
-<div align="center">
-<img src="Assets/binary.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
+#### Pré-requisitos
+
+  - **Java Development Kit (JDK)**, versão 11 ou superior (não-headless).
+
+#### Estrutura de Pastas
+
+Garanta que seu projeto tenha a seguinte estrutura de pastas:
+
+```
+SistemaDeJogos/
+└── src/
+    └── br/
+        └── com/
+            └── locadora/
+                ├── data/
+                ├── main/
+                ├── model/
+                └── view/
+```
+
+#### Passo a Passo para Construir
+
+1.  **Compilar o Código-Fonte**
+
+      - Abra um terminal na pasta raiz do projeto (`SistemaDeJogos/`) e execute o comando abaixo para compilar todos os arquivos `.java` para uma pasta `bin`.
+        ```bash
+        javac -d bin $(find src -name "*.java")
+        ```
+
+2.  **Criar o Arquivo de Manifesto**
+
+      - O manifesto aponta para a classe principal. Crie um arquivo `manifest.txt` na raiz do projeto com o seguinte conteúdo (lembre-se de deixar uma linha em branco no final):
+        ```text
+        Main-Class: br.com.locadora.main.Main
+
+        ```
+
+3.  **Empacotar o JAR Executável**
+
+      - Use a ferramenta `jar` do JDK para criar o arquivo final.
+        ```bash
+        jar cfm Locadora.jar manifest.txt -C bin .
+        ```
+      - O arquivo `Locadora.jar` será criado na pasta raiz do projeto.
+
+-----
 
 ## Vídeo
-
-Explicamos todos os códigos que fizemos na plataforma HackerRank e LeetCode:
 
 </head>
 <body>
