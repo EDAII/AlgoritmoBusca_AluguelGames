@@ -156,7 +156,7 @@ SistemaDeJogos/
 </div>
 
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fipad--1477812374350446%2F&psig=AOvVaw0gf_5UgWpUOcSzPcn5UaJu&ust=1757360033593000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPigg7ayx48DFQAAAAAdAAAAABAE" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="https://i.pinimg.com/1200x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
