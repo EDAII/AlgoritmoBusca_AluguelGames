@@ -1,6 +1,6 @@
 # Sistema de Aluguel de Jogos
 
-**Conteúdo da Disciplina**: Busca Binária
+**Conteúdo da Disciplina**: Métodos de Busca
 
 -----
 
