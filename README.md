@@ -81,7 +81,7 @@ Esta seção é para quem deseja apenas executar a aplicação.
 
 1.  **Baixe o Programa**
 
-      - Faça o download do arquivo `Locadora.jar`. *(Em um projeto real no GitHub, este arquivo estaria na seção "Releases")*.
+      - Faça o download do arquivo `Locadora.jar`.
 
 2.  **Pré-requisito**
 
