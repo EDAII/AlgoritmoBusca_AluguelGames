@@ -150,6 +150,8 @@ SistemaDeJogos/
 
 ## Vídeo
 
+<center>
+
 </head>
 <body>
 
@@ -168,3 +170,5 @@ SistemaDeJogos/
 
 </body>
 </html>
+
+</center>
