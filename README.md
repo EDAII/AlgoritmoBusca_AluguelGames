@@ -162,7 +162,7 @@ SistemaDeJogos/
 
 ## Vídeo
 
-<p align="center"><strong>Vídeo 01</strong></p>
+<p align="center"><strong>Vídeo do Projeto</strong></p>
 <p align="center">
   <div align="center">  
 
