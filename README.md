@@ -150,8 +150,4 @@ SistemaDeJogos/
 
 ## Vídeo
 
-<p align="center">
-  <a href="https://youtu.be/cq4AXVnNlDc" target="_blank">
-    <img src="https://img.youtube.com/vi/cq4AXVnNlDc/0.jpg" alt="HackerRank and LeetCode Problem" width="480">
-  </a>
-</p>
+<iframe width="893" height="502" src="https://www.youtube.com/embed/xNrcE_eeX_w?si=mp6Md3UUYiyaJzMt" title="Reunião 1 - Marventura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
