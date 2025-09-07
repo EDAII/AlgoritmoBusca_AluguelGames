@@ -164,9 +164,5 @@ SistemaDeJogos/
 
 <p align="center"><strong>Vídeo do Projeto</strong></p>
 <p align="center">
-  <div align="center">  
-
-https://github.com/EDAII/AlgoritmoBusca_GameRental/blob/main/Assets/Video/simplescreenrecorder-2025-09-07_17.39.30.mkv
-
-  </div>
+  <video src="https://github.com/EDAII/AlgoritmoBusca_GameRental/blob/main/Assets/Video/orginalMPFour.mp4" controls width="720"></video>
 </p>
