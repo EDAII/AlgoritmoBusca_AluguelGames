@@ -77,7 +77,6 @@ O núcleo do sistema utiliza um `ArrayList` mantido sempre ordenado, com todas a
 
 ## Screenshots
 
-
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Java</b></p></font>
 </div>
@@ -85,7 +84,6 @@ O núcleo do sistema utiliza um `ArrayList` mantido sempre ordenado, com todas a
 <div align="center">
 <img src="https://i.pinimg.com/1200x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
-<div align="center">
 
 -----
 
