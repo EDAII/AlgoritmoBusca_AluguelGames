@@ -78,7 +78,7 @@ O núcleo do sistema utiliza um `ArrayList` mantido sempre ordenado, com todas a
 ## Screenshots
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Código da **Busca Binária**</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Código da Busca Binária</b></p></font>
 </div>
 
 <div align="center">
