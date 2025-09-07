@@ -150,25 +150,8 @@ SistemaDeJogos/
 
 ## Vídeo
 
-<center>
-
-</head>
-<body>
-
-<table>
-    <thead>
-        <tr>
-            <th>Vídeo 01</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://youtu.be/cq4AXVnNlDc" target="_blank">HackerRank and LeetCode Problem</a></td>
-        </tr>
-    </tbody>
-</table>
-
-</body>
-</html>
-
-</center>
+<p align="center">
+  <a href="https://youtu.be/cq4AXVnNlDc" target="_blank">
+    <img src="https://img.youtube.com/vi/cq4AXVnNlDc/0.jpg" alt="HackerRank and LeetCode Problem" width="480">
+  </a>
+</p>
