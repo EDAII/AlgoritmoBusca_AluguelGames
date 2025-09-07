@@ -148,6 +148,20 @@ SistemaDeJogos/
 
 -----
 
+## Screenshots
+
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Java</b></p></font>
+</div>
+
+<div align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fipad--1477812374350446%2F&psig=AOvVaw0gf_5UgWpUOcSzPcn5UaJu&ust=1757360033593000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPigg7ayx48DFQAAAAAdAAAAABAE" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+
+-----
+
 ## Vídeo
 
 <p align="center"><strong>Vídeo 01</strong></p>
