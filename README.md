@@ -80,11 +80,27 @@ O núcleo do sistema utiliza um `ArrayList` mantido sempre ordenado, com todas a
 ## Screenshots
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Código da Busca Binária</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Nosso Projeto Rodando</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/Images/sistema.jpeg" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Código da Busca Binária</b></p></font>
 </div>
 
 <div align="center">
 <img src="Assets/Images/codigoBusca.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Código da Busca Linear</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/Images/buscaLinear.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 
 -----
