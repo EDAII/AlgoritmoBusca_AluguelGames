@@ -59,6 +59,8 @@ O núcleo do sistema utiliza um `ArrayList` mantido sempre ordenado, com todas a
       - Visualizar o catálogo completo com status (`Disponível`/`Alugado`).
       - Atualizar informações de jogos existentes.
       - Remover jogos do sistema permanentemente.
+      - **Gerar Backup**: Salva todo o catálogo de jogos em um arquivo.
+      - **Carregar Backup**: Restaura o catálogo de jogos a partir de um arquivo de backup.
 
   - **Painel do Cliente (Usuário)**
 
