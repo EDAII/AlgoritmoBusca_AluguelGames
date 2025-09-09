@@ -180,7 +180,9 @@ SistemaDeJogos/
 
 ## Vídeo
 
-<p align="center"><strong>Vídeo do Projeto</strong></p>
+<a href="https://youtu.be/TFeyVYnvyy4" target="_blank">
+    <p align="center"><strong>Vídeo do Projeto</strong></p>
+</a>
 <p align="center">
   <a href="https://youtu.be/TFeyVYnvyy4" target="_blank">
     <img src="https://img.youtube.com/vi/TFeyVYnvyy4/0.jpg" alt="Vídeo 01" width="480">
