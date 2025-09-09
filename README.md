@@ -182,7 +182,7 @@ SistemaDeJogos/
 
 <p align="center"><strong>Vídeo do Projeto</strong></p>
 <p align="center">
-  <a href="https://youtu.be/jLEUJuXBMP8" target="_blank">
-    <img src="https://img.youtube.com/vi/jLEUJuXBMP8E/0.jpg" alt="Vídeo 01" width="480">
+  <a href="https://youtu.be/TFeyVYnvyy4" target="_blank">
+    <img src="https://youtu.be/TFeyVYnvyy4/0.jpg" alt="Vídeo 01" width="480">
   </a>
 </p>
